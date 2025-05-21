@@ -16,5 +16,4 @@ Setelah aplikasi berjalan, Anda bisa menggunakan perintah berikut:
 -   `hapus`: Memungkinkan Anda menghapus item dari keranjang.
 -   `total`: Menampilkan total belanja Anda saat ini.
 -   `struk`: Mencetak struk belanja dan mengakhiri transaksi.
--   `menu`: Menampilkan kembali daftar barang.
 -   `selesai`: Keluar dari aplikasi tanpa mencetak struk.
